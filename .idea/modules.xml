@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Algorithms/.idea/Algorithms.iml" filepath="$USER_HOME$/DataspellProjects/Algorithms/.idea/Algorithms.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AutomateQnATesting/.idea/AutomateQnATesting.iml" filepath="$USER_HOME$/PycharmProjects/AutomateQnATesting/.idea/AutomateQnATesting.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Demo/.idea/Demo.iml" filepath="$USER_HOME$/DataspellProjects/Demo/.idea/Demo.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Harriet/.idea/Harriet.iml" filepath="$USER_HOME$/PycharmProjects/Harriet/.idea/Harriet.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Harriet_DS/.idea/Harriet_DS.iml" filepath="$USER_HOME$/DataspellProjects/Harriet_DS/.idea/Harriet_DS.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Models/.idea/Models.iml" filepath="$USER_HOME$/DataspellProjects/Models/.idea/Models.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/legal_hackathon/.idea/legal_hackathon.iml" filepath="$USER_HOME$/DataspellProjects/legal_hackathon/.idea/legal_hackathon.iml" />
+    </modules>
+  </component>
+</project>
